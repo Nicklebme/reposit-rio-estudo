@@ -1,1 +1,1 @@
-# reposit-rio-estudo
+# repositorio-estudo
